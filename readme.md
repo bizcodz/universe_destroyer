@@ -1,4 +1,3 @@
-
 Project Title:
 
 Shoe Stocker
